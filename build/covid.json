@@ -1,0 +1,17 @@
+[
+    {
+        "id" :1,
+        "topic" : "Today's Covid Information",
+        "cure":40,
+        "affected":20,
+        "vaccinated":4050
+    }
+    ,
+    {
+        "id" :2,
+        "topic" : "Overall Covid Information",
+        "cure":300000,
+        "affected":100040,
+        "vaccinated":100000040
+    }
+]

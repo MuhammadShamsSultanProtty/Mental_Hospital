@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "name":"shakil",
+        "speciality":"Neurosurgeon",
+        "duty_time":"8am-10am",
+        "image":"/images/sk1.jpg"
+    },
+    {
+        "id" : 2,
+        "name":"shakib",
+        "speciality":"Surgeon",
+        "duty_time":"10am-1pm",
+        "image":"/images/pl1.jpg"
+    },
+    {
+        "id" : 3,
+        "name":"shihab",
+        "speciality":"Medicine",
+        "duty_time":"1pm-4pm",
+        "image":"/images/sd2.jpg"    
+    },
+    {
+        "id" : 4,
+        "name":"Peal",
+        "speciality":"Surgeon",
+        "duty_time":"4pm-6pm",
+        "image":"/images/sk2.jpg"    
+    },
+    {
+        "id" : 5,
+        "name":"Sazzad",
+        "speciality":"Medicine",
+        "duty_time":"6pm-8pm",
+        "image":"/images/pl2.jpg"    
+    }
+]

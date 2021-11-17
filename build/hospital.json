@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Dhaka Medical College"
+    },
+    {
+        "id":2,
+        "name":"Barisal Medical College"
+    },
+    {
+        "id":3,
+        "name":"Dinajpur Medical College"
+    },
+    {
+        "id":4,
+        "name":"Rangpur Medical College"
+    },
+    {
+        "id":5,
+        "name":"Rajshahi Medical College"
+    },
+    {
+        "id":6,
+        "name":"Mugda Medical College"
+    }
+]

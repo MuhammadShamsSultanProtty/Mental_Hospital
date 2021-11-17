@@ -1,0 +1,38 @@
+[
+    {
+      "id":1,
+      "name":"Covid Vaccination",
+      "details":"We provide covid vaccine free for all people. In order to get that they have to register through a website. Then they will get a msg with a date. In that particular date, they will get their covid vaccine",
+      "images":"/images/covid.jpg"
+    },   
+    {
+        "id":2,
+        "name":"Free Medicine",
+        "details":"We provide governent's free medicine for the poor people. So the overall treatment cost is minimised",
+        "images":"/images/frmdcn.jpg"
+    },    
+    {
+        "id":3,
+        "name":"Ambulance",
+        "details":"Our system has a ambulance service. We provide driver's phone number so that anyone can call them in time of need.",
+        "images":"/images/ambul.jpg"
+    },
+    {
+        "id":4,
+        "name":"Telemedicine",
+        "details":"We have a telemedicine Service. During the lockdown period this process was vary much helpful.",
+        "images":"/images/tlmdcn.jpg"
+    },    
+    {
+        "id":5,
+        "name":"Altrasonography",
+        "details":"We have our own altrasonogram. So people don't need to rush.",
+        "images":"/images/ultras.jpg"
+    },    
+    {
+        "id":6,
+        "name":"X-rays",
+        "details":"We have our own x-ray machine. It's price is also very cheap so that al kinds of people get the service easily.",
+        "images":"/images/xray.jpg"
+    }
+]
